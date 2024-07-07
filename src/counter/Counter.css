@@ -1,0 +1,27 @@
+.counter{
+    text-align: center;
+   
+}
+ h2{
+ height: 60px;
+ width: 60px;
+ background-color: yellow;
+margin-left: 540px;
+border-radius: 50%;
+
+}
+.btns{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    text-align: center;
+  
+}
+button{
+    border-radius: 4px;
+    text-decoration: none;
+    color: aqua;
+    background-color: #000000;
+    box-shadow: -1;
+    padding: 7px 8px;
+}

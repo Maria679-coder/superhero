@@ -1,0 +1,39 @@
+.Container{
+   margin-left: 500px;
+   margin-top: 200px;
+}
+.btn{
+    color: #EB6541;
+    background-color: #08415C;
+    padding: 7px;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-left: 500px;
+
+}
+
+/* maria assignment style  */
+ 
+/* .body{
+   display: flex;
+   flex-direction: column;
+   margin-left: 300px;
+   margin-top: 100px;
+   height: 350px;
+   width: 300px;
+   padding: 20px;
+    background-color: rgb(230, 228, 226);
+    border: solid black ;
+ }
+ .btn{
+     color: #f8d3c9;
+     background-color: #000305;
+     padding: 20px;
+     margin: 10px;
+     height: 100px;
+     width: 100px;
+     text-decoration: none;
+     border-radius: 50%;    
+     margin-left: 100px;
+ 
+ } */
